@@ -54,9 +54,6 @@
     <ClCompile Include="C.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
-    <ClCompile Include="章末問題4-3.cpp">
-      <Filter>ソース ファイル\4.条件判断</Filter>
-    </ClCompile>
     <ClCompile Include="章末問題5-1.cpp">
       <Filter>ソース ファイル\5.同様の処理を繰り返す</Filter>
     </ClCompile>
