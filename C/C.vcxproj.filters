@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ソース ファイル">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="ヘッダー ファイル">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="リソース ファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="ソース ファイル\2.ディスプレイ表示">
+      <UniqueIdentifier>{943061a2-faa6-4a51-b982-2e23b371c51f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\3.キーボード入力と算術演算">
+      <UniqueIdentifier>{9a113943-017e-434d-89ba-2e1f067ae7fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\4.条件判断">
+      <UniqueIdentifier>{1f02a212-602b-4df5-abdc-77326b586f43}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\5.同様の処理を繰り返す">
+      <UniqueIdentifier>{c37555c7-f53c-4642-a5e6-72d8d6aa0f63}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\6.ライブラリ関数">
+      <UniqueIdentifier>{cf063243-9988-4830-bc97-674f61f01982}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\7.ユーザ定義関数">
+      <UniqueIdentifier>{b02cfb40-2464-417d-9e53-e85bc10bc515}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\8.記憶域クラスとプリプロセッサ">
+      <UniqueIdentifier>{06345b68-c60c-41ba-a24e-717b9382f7ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\9.配列">
+      <UniqueIdentifier>{79a4430b-d7da-4ca7-8337-f9ef741a3da3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\10.ポインタ">
+      <UniqueIdentifier>{e5bb9792-4ce8-48bf-8ff1-fb349898656d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\11.文字列処理">
+      <UniqueIdentifier>{f2a45644-33a0-478c-9bbc-fd7960f59f76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\12.構造体">
+      <UniqueIdentifier>{b9e509a4-7185-4697-903d-1b3ea5936448}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\13.データの保存と表示">
+      <UniqueIdentifier>{44028409-9739-4ef2-b24a-60bf5fca0d95}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="C.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="章末問題4-3.cpp">
+      <Filter>ソース ファイル\4.条件判断</Filter>
+    </ClCompile>
+    <ClCompile Include="章末問題5-1.cpp">
+      <Filter>ソース ファイル\5.同様の処理を繰り返す</Filter>
+    </ClCompile>
+    <ClCompile Include="章末問題5-2.cpp">
+      <Filter>ソース ファイル\5.同様の処理を繰り返す</Filter>
+    </ClCompile>
+    <ClCompile Include="章末問題5-3.cpp">
+      <Filter>ソース ファイル\5.同様の処理を繰り返す</Filter>
+    </ClCompile>
+    <ClCompile Include="章末問題6-1.cpp">
+      <Filter>ソース ファイル\6.ライブラリ関数</Filter>
+    </ClCompile>
+    <ClCompile Include="章末問題7-1.cpp">
+      <Filter>ソース ファイル\7.ユーザ定義関数</Filter>
+    </ClCompile>
+    <ClCompile Include="章末問題7-2.cpp">
+      <Filter>ソース ファイル\7.ユーザ定義関数</Filter>
+    </ClCompile>
+    <ClCompile Include="章末問題8-1.cpp">
+      <Filter>ソース ファイル\8.記憶域クラスとプリプロセッサ</Filter>
+    </ClCompile>
+    <ClCompile Include="章末問題8-2.cpp">
+      <Filter>ソース ファイル\8.記憶域クラスとプリプロセッサ</Filter>
+    </ClCompile>
+    <ClCompile Include="章末問題9-1.cpp">
+      <Filter>ソース ファイル\9.配列</Filter>
+    </ClCompile>
+    <ClCompile Include="章末問題9-2.cpp">
+      <Filter>ソース ファイル\9.配列</Filter>
+    </ClCompile>
+    <ClCompile Include="章末問題10-1.cpp">
+      <Filter>ソース ファイル\10.ポインタ</Filter>
+    </ClCompile>
+    <ClCompile Include="章末問題11-1.cpp">
+      <Filter>ソース ファイル\11.文字列処理</Filter>
+    </ClCompile>
+    <ClCompile Include="章末問題12-1.cpp">
+      <Filter>ソース ファイル\12.構造体</Filter>
+    </ClCompile>
+    <ClCompile Include="章末問題13-1.cpp">
+      <Filter>ソース ファイル\13.データの保存と表示</Filter>
+    </ClCompile>
+    <ClCompile Include="章末問題13-2.cpp">
+      <Filter>ソース ファイル\13.データの保存と表示</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C.rc">
+      <Filter>リソース ファイル</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

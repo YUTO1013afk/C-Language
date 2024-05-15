@@ -1,0 +1,11 @@
+#define CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+int main(void)
+{
+	double x, y;
+	printf("Ç®Ç‡ÇËÇÃèdÇ≥Çì¸óÕÇµÇƒÇ≠ÇæÇ≥Ç¢ -> ");
+	scanf_s("%lf", &y);
+	x = y / 40.0;
+	printf("Ç®Ç‡ÇËÇÃèdÇ≥ %fg	ÇŒÇÀÇÃêLÇ— %fcm", y, x);
+	return 0;
+}
