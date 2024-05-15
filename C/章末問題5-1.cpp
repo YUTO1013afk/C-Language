@@ -13,6 +13,5 @@ int main(void) {
         x1 = x2;
         x2 = xn;
     }
-
     return 0;
 }
