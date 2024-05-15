@@ -87,9 +87,6 @@
     <ClCompile Include="章末問題13-2.cpp">
       <Filter>ソース ファイル\13.データの保存と表示</Filter>
     </ClCompile>
-    <ClCompile Include="章末問題6-1.cpp">
-      <Filter>ソース ファイル\6.ライブラリ関数</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">
