@@ -134,7 +134,6 @@
     <ClCompile Include="章末問題12-1.cpp" />
     <ClCompile Include="章末問題13-1.cpp" />
     <ClCompile Include="章末問題13-2.cpp" />
-    <ClCompile Include="章末問題7-1.cpp" />
     <ClCompile Include="章末問題7-2.cpp" />
     <ClCompile Include="章末問題8-1.cpp" />
     <ClCompile Include="章末問題8-2.cpp" />
