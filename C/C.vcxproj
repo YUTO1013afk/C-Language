@@ -129,7 +129,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="C.cpp" />
-    <ClCompile Include="章末問題11-1.cpp" />
     <ClCompile Include="章末問題12-1.cpp" />
     <ClCompile Include="章末問題13-1.cpp" />
     <ClCompile Include="章末問題13-2.cpp" />
