@@ -15,5 +15,5 @@ int main(void)
 	}
 
 	for (i = 0; i < 5; i++) free(name[i]);
-		return 0;
+	return 0;
 }
