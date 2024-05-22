@@ -7,7 +7,7 @@ int main(void)
 	FILE* fp;
 	fp = fopen("curve.csv", "w");
 	for (x = 0.0; x <= 2.01; x+=0.1) {
-		y = x * x - x + 1;
+		y = x * x - 2.0 * x + 1.0;
 		fprintf(fp, "%f,%f\n", x, y);
 	}
 	fclose(fp);
