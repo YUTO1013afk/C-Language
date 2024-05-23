@@ -129,6 +129,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="C.cpp" />
+    <ClCompile Include="章末問題10-1.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h" />
